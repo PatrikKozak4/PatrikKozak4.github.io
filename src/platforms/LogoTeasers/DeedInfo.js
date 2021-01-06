@@ -16,7 +16,7 @@ const DeedInfo = () => {
         <p className="mb-0">
           High precision 3-dimensional graphic renders representing every property parcel
           in the nation. Each unique property plot illustrates its value by conveying its
-          numerical rnage through height and color.
+          numerical range through height and color.
         </p>
       </div>
 
