@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/PatrikKozak4.github.io/static/css/main.b17f0c5e.chunk.css",
+    "main.js": "/PatrikKozak4.github.io/static/js/main.2f3b665d.chunk.js",
+    "main.js.map": "/PatrikKozak4.github.io/static/js/main.2f3b665d.chunk.js.map",
+    "runtime-main.js": "/PatrikKozak4.github.io/static/js/runtime-main.9b578ac6.js",
+    "runtime-main.js.map": "/PatrikKozak4.github.io/static/js/runtime-main.9b578ac6.js.map",
+    "static/css/2.3e39b39a.chunk.css": "/PatrikKozak4.github.io/static/css/2.3e39b39a.chunk.css",
+    "static/js/2.fb0c016f.chunk.js": "/PatrikKozak4.github.io/static/js/2.fb0c016f.chunk.js",
+    "static/js/2.fb0c016f.chunk.js.map": "/PatrikKozak4.github.io/static/js/2.fb0c016f.chunk.js.map",
+    "index.html": "/PatrikKozak4.github.io/index.html",
+    "precache-manifest.56cbfc62de6fb65b0cbcaebe58f228d9.js": "/PatrikKozak4.github.io/precache-manifest.56cbfc62de6fb65b0cbcaebe58f228d9.js",
+    "service-worker.js": "/PatrikKozak4.github.io/service-worker.js",
+    "static/css/2.3e39b39a.chunk.css.map": "/PatrikKozak4.github.io/static/css/2.3e39b39a.chunk.css.map",
+    "static/css/main.b17f0c5e.chunk.css.map": "/PatrikKozak4.github.io/static/css/main.b17f0c5e.chunk.css.map",
+    "static/js/2.fb0c016f.chunk.js.LICENSE.txt": "/PatrikKozak4.github.io/static/js/2.fb0c016f.chunk.js.LICENSE.txt",
+    "static/media/ADLogo3Dim.glb": "/PatrikKozak4.github.io/static/media/ADLogo3Dim.24f28277.glb",
+    "static/media/AELogo3DLo.glb": "/PatrikKozak4.github.io/static/media/AELogo3DLo.70c2210a.glb",
+    "static/media/BridgmanScetch1.png": "/PatrikKozak4.github.io/static/media/BridgmanScetch1.353ecc65.png",
+    "static/media/DenverScetchv6.png": "/PatrikKozak4.github.io/static/media/DenverScetchv6.a72db8ff.png",
+    "static/media/GrandRapidsScetchv2.png": "/PatrikKozak4.github.io/static/media/GrandRapidsScetchv2.83dae5ae.png",
+    "static/media/HourNAtionArcccc.glb": "/PatrikKozak4.github.io/static/media/HourNAtionArcccc.01b89545.glb",
+    "static/media/JaredHeadshot.jpg": "/PatrikKozak4.github.io/static/media/JaredHeadshot.0abce74b.jpg",
+    "static/media/PatrikHeadshot1.jpg": "/PatrikKozak4.github.io/static/media/PatrikHeadshot1.5385a2ab.jpg",
+    "static/media/SwainHeadshot.jpg": "/PatrikKozak4.github.io/static/media/SwainHeadshot.479b60e0.jpg",
+    "static/media/TryThis.glb": "/PatrikKozak4.github.io/static/media/TryThis.b61df86c.glb",
+    "static/media/mdb.css": "/PatrikKozak4.github.io/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/portraitCoop.png": "/PatrikKozak4.github.io/static/media/portraitCoop.37b0fa7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b578ac6.js",
+    "static/css/2.3e39b39a.chunk.css",
+    "static/js/2.fb0c016f.chunk.js",
+    "static/css/main.b17f0c5e.chunk.css",
+    "static/js/main.2f3b665d.chunk.js"
+  ]
+}
